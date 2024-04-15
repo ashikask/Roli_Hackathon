@@ -1,0 +1,16 @@
+{
+  "name": "gateway-service",
+  "main": "./cjs/index.js",
+  "module": "./esm/index.js",
+  "types": "./esm/index.d.ts",
+  "version": "21.0.0",
+  "exports": {
+    ".": {
+      "import": "./esm/index.js",
+      "require": "./cjs/index.js"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}

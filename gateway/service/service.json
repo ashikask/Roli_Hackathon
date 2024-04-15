@@ -1,0 +1,20 @@
+{
+    "identity": "eyJjaGVja3N1bSI6MzgzNTk4NzAxLCJzZXJ2aWNlSWQiOiI1MDEzOSIsInNlcnZpY2VWZXJzaW9uIjoiMjEiLCJpZGVudGl0eUNsYXNzTWFwcGluZ3MiOlt7ImNsYXNzTmFtZSI6IkdhdGV3YXlBcGkiLCJjbGFzc0lkIjoxMDAwLCJ0YWciOiJiZTJiZTU5YWJmZWY0OTk2ODlkNGEzMjAyYzYxNWYwOSJ9LHsiY2xhc3NOYW1lIjoiR2F0ZXdheVNlc3Npb24iLCJjbGFzc0lkIjoxMDAxLCJ0YWciOiI3YjkwNzUwZTcxYTI0MzdlYTRmMDlhNmJmOGQ5ZGNlMCJ9XSwibGFzdENsYXNzSWQiOjEwMDF9",
+    "name": "gateway",
+    "configVersion": 1,
+    "classes": [
+        {
+            "name": "GatewayApi",
+            "tag": "be2be59abfef499689d4a3202c615f09"
+        },
+        {
+            "name": "GatewaySession",
+            "tag": "7b90750e71a2437ea4f09a6bf8d9dce0"
+        }
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "allowJs": true,
+        "strict": true
+    }
+}
